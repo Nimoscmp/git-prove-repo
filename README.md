@@ -2,10 +2,10 @@
 
 ###Subtitle
 
-This is theexplanation
+This is the explanation
 
 This is a phrase
 
 This is a description
 
-Tihs is another phrase
+This is another phrase
